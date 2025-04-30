@@ -1,4 +1,6 @@
 # Braille Translator Web Application
+Firda Gheitsa Sahira - 2702366546
+
 
 ## Overview
 This project is a Braille Translator web application built using Flask for the backend. The application allows users to input Braille patterns using a virtual keyboard and translates them into text and audio output. The audio output is generated using Google Text-to-Speech (gTTS).
